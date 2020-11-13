@@ -1,55 +1,1 @@
-﻿bank_name,quarter,re,comm_re,comm_re_noo,const_and_dev,1_4_family,c_and_i,individual
-First CornerStone Bank,3/31/16," 1,481 ", 990 , 128 , 48 , 492 , 63 , 29 
-First CornerStone Bank,12/31/15," 1,097 ", 726 , 94 , 30 , 371 , 43 , 24 
-First CornerStone Bank,9/30/15," 1,153 ", 768 , 92 , 29 , 385 , 43 , 24 
-First CornerStone Bank,6/30/15," 1,003 ", 688 , 71 , 23 , 315 , 35 , 21 
-First CornerStone Bank,3/31/15, 819 , 562 , 59 , 19 , 256 , 29 , 18 
-First CornerStone Bank,12/31/14, 749 , 516 , 53 , 16 , 233 , 30 , 14 
-First CornerStone Bank,9/30/14, 561 , 381 , 41 , 12 , 180 , 26 , 11 
-First CornerStone Bank,6/30/14, 549 , 362 , 37 , 10 , 170 , 22 , 11 
-First CornerStone Bank,3/31/14, 517 , 340 , 36 , 9 , 161 , 19 , 6 
-First CornerStone Bank,12/31/13, 745 , 479 , 73 , 12 , 244 , 28 , 7 
-First CornerStone Bank,9/30/13, 672 , 135 , 81 , 11 , 218 , 25 , 6 
-First CornerStone Bank,6/30/13, 637 , 410 , 76 , 10 , 209 , 24 , 6 
-First CornerStone Bank,3/31/13, 602 , 391 , 83 , 19 , 196 , 25 , 5 
-First CornerStone Bank,12/31/12," 1,099 ", 712 , 155 , 35 , 360 , 48 , 8 
-First CornerStone Bank,9/30/12, 993 , 638 , 148 , 50 , 322 , 43 , 7 
-First CornerStone Bank,6/30/12," 1,446 ", 924 , 221 , 87 , 477 , 69 , 9 
-First CornerStone Bank,3/31/12," 1,300 ", 814 , 203 , 86 , 448 , 56 , 8 
-First CornerStone Bank,12/31/11," 1,297 ", 786 , 196 , 87 , 474 , 59 , 9 
-First CornerStone Bank,9/30/11, 875 , 530 , 134 , 64 , 320 , 44 , 13 
-First CornerStone Bank,6/30/11, 811 , 492 , 125 , 61 , 297 , 46 , 15 
-First CornerStone Bank,3/31/11, 812 , 497 , 126 , 57 , 294 , 46 , 16 
-First CornerStone Bank,12/31/10, 817 , 496 , 118 , 51 , 301 , 46 , 16 
-First CornerStone Bank,9/30/10, 826 , 481 , 120 , 49 , 326 , 44 , 64 
-First CornerStone Bank,6/30/10, 875 , 510 , 127 , 56 , 346 , 57 , 66 
-First CornerStone Bank,3/31/10," 1,081 ", 611 , 139 , 68 , 447 , 72 , 70 
-First CornerStone Bank,12/31/09," 1,106 ", 624 , 148 , 76 , 458 , 76 , 60 
-First CornerStone Bank,9/30/09," 1,047 ", 602 , 163 , 97 , 423 , 70 , 46 
-First CornerStone Bank,6/30/09, 958 , 548 , 166 , 109 , 391 , 64 , 34 
-First CornerStone Bank,3/31/09, 965 , 550 , 165 , 107 , 395 , 67 , 13 
-First CornerStone Bank,12/31/08," 1,047 ", 601 , 181 , 117 , 426 , 79 , 8 
-First CornerStone Bank,9/30/08," 1,040 ", 592 , 172 , 108 , 430 , 81 , 10 
-First CornerStone Bank,6/30/08, 992 , 563 , 160 , 108 , 419 , 87 , 13 
-First CornerStone Bank,3/31/08, 922 , 512 , 143 , 89 , 408 , 87 , 6 
-First CornerStone Bank,12/31/07, 899 , 492 , 186 , 66 , 407 , 92 , 6 
-First CornerStone Bank,9/30/07, 857 , 497 , 168 , 71 , 358 , 91 , 6 
-First CornerStone Bank,6/30/07, 979 , 558 , 159 , 52 , 422 , 104 , 7 
-First CornerStone Bank,3/31/07, 976 , 56 , 164 , 56 , 412 , 107 , 8 
-First CornerStone Bank,12/31/06, 932 , 527 , N/A , 69 , 406 , 112 , 7 
-First CornerStone Bank,9/30/06, 916 , 515 , N/A , 72 , 401 , 123 , 8 
-First CornerStone Bank,6/30/06, 920 , 518 , N/A , 82 , 402 , 136 , 6 
-First CornerStone Bank,3/31/06, 862 , 486 , N/A , 77 , 375 , 92 , 5 
-First CornerStone Bank,12/31/05, 810 , 473 , N/A , 63 , 337 , 79 , 5 
-First CornerStone Bank,9/30/05, 731 , 435 , N/A , 57 , 296 , 85 , 5 
-First CornerStone Bank,6/30/05, 667 , 404 , N/A , 42 , 263 , 75 , 5 
-First CornerStone Bank,3/31/05, 584 , 346 , N/A , 27 , 237 , 75 , 4 
-First CornerStone Bank,12/31/04, 567 , 341 , N/A , 37 , 226 , 86 , 3 
-First CornerStone Bank,9/30/04, 513 , 314 , N/A , 39 , 199 , 87 , 3 
-First CornerStone Bank,6/30/04, 483 , 300 , N/A , 15 , 183 , 97 , 3 
-First CornerStone Bank,3/31/04, 449 , 279 , N/A , 14 , 171 , 104 , 3 
-First CornerStone Bank,12/31/03, 398 , 234 , N/A , 3 , 164 , 113 , 2 
-First CornerStone Bank,9/30/03, 387 , 218 , N/A , 4 , 169 , 115 , 2 
-First CornerStone Bank,6/30/03, 317 , 189 , N/A , 4 , 128 , 117 , 2 
-First CornerStone Bank,3/31/03, 269 , 144 , N/A , 2 , 125 , 121 , 2 
-First CornerStone Bank,12/31/02, 234 , 110 , N/A , 2 , 124 , 121 , 3 
+bank_name,quarter,re,comm_re,comm_re_noo,const_and_dev,1_4_family,c_and_i,individualFirst CornerStone Bank,3/31/16,"1,481",990,128,48,492,63,29First CornerStone Bank,12/31/15,"1,097",726,94,30,371,43,24First CornerStone Bank,9/30/15,"1,153",768,92,29,385,43,24First CornerStone Bank,6/30/15,"1,003",688,71,23,315,35,21First CornerStone Bank,3/31/15,819,562,59,19,256,29,18First CornerStone Bank,12/31/14,749,516,53,16,233,30,14First CornerStone Bank,9/30/14,561,381,41,12,180,26,11First CornerStone Bank,6/30/14,549,362,37,10,170,22,11First CornerStone Bank,3/31/14,517,340,36,9,161,19,6First CornerStone Bank,12/31/13,745,479,73,12,244,28,7First CornerStone Bank,9/30/13,672,135,81,11,218,25,6First CornerStone Bank,6/30/13,637,410,76,10,209,24,6First CornerStone Bank,3/31/13,602,391,83,19,196,25,5First CornerStone Bank,12/31/12,"1,099",712,155,35,360,48,8First CornerStone Bank,9/30/12,993,638,148,50,322,43,7First CornerStone Bank,6/30/12,"1,446",924,221,87,477,69,9First CornerStone Bank,3/31/12,"1,300",814,203,86,448,56,8First CornerStone Bank,12/31/11,"1,297",786,196,87,474,59,9First CornerStone Bank,9/30/11,875,530,134,64,320,44,13First CornerStone Bank,6/30/11,811,492,125,61,297,46,15First CornerStone Bank,3/31/11,812,497,126,57,294,46,16First CornerStone Bank,12/31/10,817,496,118,51,301,46,16First CornerStone Bank,9/30/10,826,481,120,49,326,44,64First CornerStone Bank,6/30/10,875,510,127,56,346,57,66First CornerStone Bank,3/31/10,"1,081",611,139,68,447,72,70First CornerStone Bank,12/31/09,"1,106",624,148,76,458,76,60First CornerStone Bank,9/30/09,"1,047",602,163,97,423,70,46First CornerStone Bank,6/30/09,958,548,166,109,391,64,34First CornerStone Bank,3/31/09,965,550,165,107,395,67,13First CornerStone Bank,12/31/08,"1,047",601,181,117,426,79,8First CornerStone Bank,9/30/08,"1,040",592,172,108,430,81,10First CornerStone Bank,6/30/08,992,563,160,108,419,87,13First CornerStone Bank,3/31/08,922,512,143,89,408,87,6First CornerStone Bank,12/31/07,899,492,186,66,407,92,6First CornerStone Bank,9/30/07,857,497,168,71,358,91,6First CornerStone Bank,6/30/07,979,558,159,52,422,104,7First CornerStone Bank,3/31/07,976,56,164,56,412,107,8First CornerStone Bank,12/31/06,932,527,N/A,69,406,112,7First CornerStone Bank,9/30/06,916,515,N/A,72,401,123,8First CornerStone Bank,6/30/06,920,518,N/A,82,402,136,6First CornerStone Bank,3/31/06,862,486,N/A,77,375,92,5First CornerStone Bank,12/31/05,810,473,N/A,63,337,79,5First CornerStone Bank,9/30/05,731,435,N/A,57,296,85,5First CornerStone Bank,6/30/05,667,404,N/A,42,263,75,5First CornerStone Bank,3/31/05,584,346,N/A,27,237,75,4First CornerStone Bank,12/31/04,567,341,N/A,37,226,86,3First CornerStone Bank,9/30/04,513,314,N/A,39,199,87,3First CornerStone Bank,6/30/04,483,300,N/A,15,183,97,3First CornerStone Bank,3/31/04,449,279,N/A,14,171,104,3First CornerStone Bank,12/31/03,398,234,N/A,3,164,113,2First CornerStone Bank,9/30/03,387,218,N/A,4,169,115,2First CornerStone Bank,6/30/03,317,189,N/A,4,128,117,2First CornerStone Bank,3/31/03,269,144,N/A,2,125,121,2First CornerStone Bank,12/31/02,234,110,N/A,2,124,121,3
