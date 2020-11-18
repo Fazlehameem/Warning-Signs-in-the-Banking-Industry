@@ -5,13 +5,14 @@ In this project, we utilize Python visualizations to create an interactive dashb
 
 Team members include Ben Fischler, Mitchel Voloshin, Lisa Esberger, Brendan Shanley and Fazle Hameem.
 
-## Question 1: Here
+## Question 1: How do the credit concentrations at midsize banking firms affect the long-term success of the entity?
+![Plot1.1](Plot1.1.png)
 
 
-## Question 2: Here
+## Question 2: What role did the concentrations play in the failure of banking firms over the last 20 years?
 
 
-## Question 3: Here
+## Question 3: What trends, if any, were discovered that eventually led to bank insolvency?
 
 
-## Question 4: Here
+## Question 4: How can this data be used by investors or by firm management to make future operational decisions?
